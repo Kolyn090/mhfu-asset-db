@@ -1,0 +1,32 @@
+# Blender 4.4.3 MTL File: 'rajang_raged3.blend'
+# www.blender.org
+
+newmtl rajang_raged1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd D:/Backup/Kolyn/Art/Game/MonsterHunter2G/monster/rajang_raged2/texture/rajang_raged1.png
+map_d D:/Backup/Kolyn/Art/Game/MonsterHunter2G/monster/rajang_raged2/texture/rajang_raged1.png
+
+newmtl rajang_raged2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd D:/Backup/Kolyn/Art/Game/MonsterHunter2G/monster/rajang_raged2/texture/rajang_raged2.png
+map_d D:/Backup/Kolyn/Art/Game/MonsterHunter2G/monster/rajang_raged2/texture/rajang_raged2.png
+
+newmtl rajang_raged3
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd D:/Backup/Kolyn/Art/Game/MonsterHunter2G/monster/rajang_raged2/texture/rajang_raged3.png
+map_d D:/Backup/Kolyn/Art/Game/MonsterHunter2G/monster/rajang_raged2/texture/rajang_raged3.png
