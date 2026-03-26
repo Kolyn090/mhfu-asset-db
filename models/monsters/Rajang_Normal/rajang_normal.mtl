@@ -1,20 +1,22 @@
 # Blender 4.4.3 MTL File: 'rajang_normal.blend'
 # www.blender.org
 
-newmtl rajang_normal1
-Ns 250.000000
+newmtl rajang_normal00
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
-illum 2
-map_Kd texture/rajang_normal1.png
+illum 1
+map_Kd texture/rajang_normal00.png
+map_d texture/rajang_normal00.png
 
-newmtl rajang_normal2
-Ns 250.000000
+newmtl rajang_normal01
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
-illum 2
-map_Kd texture/rajang_normal2.png
+illum 1
+map_Kd texture/rajang_normal01.png
+map_d texture/rajang_normal01.png
