@@ -1,52 +1,52 @@
 # Blender 4.4.3 MTL File: 'tigrex.blend'
 # www.blender.org
 
-newmtl tigrex1
-Ns 250.000000
+newmtl tigrex00
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
-illum 2
-map_Kd texture/tigrex1.png
+illum 1
+map_Kd texture/tigrex00.png
 
-newmtl tigrex2
-Ns 250.000000
+newmtl tigrex01
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
-d 1.000000
-illum 2
-map_Kd texture/tigrex2.png
+illum 1
+map_Kd texture/tigrex01.png
+map_d texture/tigrex01.png
 
-newmtl tigrex3
-Ns 250.000000
+newmtl tigrex02
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
-illum 2
-map_Kd texture/tigrex3.png
+illum 1
+map_Kd texture/tigrex02.png
 
-newmtl tigrex4
-Ns 250.000000
+newmtl tigrex03
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
-d 1.000000
-illum 2
-map_Kd texture/tigrex4.png
+illum 1
+map_Kd texture/tigrex03.png
+map_d texture/tigrex03.png
 
-newmtl tigrex5
-Ns 250.000000
+newmtl tigrex04
+Ns 0.000000
 Ka 1.000000 1.000000 1.000000
-Ks 0.500000 0.500000 0.500000
+Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
-d 1.000000
-illum 2
-map_Kd texture/tigrex5.png
+illum 1
+map_Kd texture/tigrex04.png
+map_d texture/tigrex04.png
