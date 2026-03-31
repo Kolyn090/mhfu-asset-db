@@ -1,0 +1,42 @@
+# Blender 4.4.3 MTL File: 'cephadrome.blend'
+# www.blender.org
+
+newmtl cephadrome00
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/cephadrome00.png
+map_d texture/cephadrome00.png
+
+newmtl cephadrome01
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/cephadrome01.png
+map_d texture/cephadrome01.png
+
+newmtl cephadrome02
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd texture/cephadrome02.png
+
+newmtl cephadrome03
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/cephadrome03.png
+map_d texture/cephadrome03.png
