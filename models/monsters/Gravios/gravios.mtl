@@ -18,8 +18,8 @@ Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 illum 1
-map_Kd gravios01.png
-map_d gravios01.png
+map_Kd texture/gravios01.png
+map_d texture/gravios01.png
 
 newmtl gravios02
 Ns 0.000000
