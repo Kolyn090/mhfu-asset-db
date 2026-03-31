@@ -1,0 +1,52 @@
+# Blender 4.4.3 MTL File: 'basarios.blend'
+# www.blender.org
+
+newmtl basarios00
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd texture/basarios00.png
+
+newmtl basarios01
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/basarios01.png
+map_d texture/basarios01.png
+
+newmtl basarios02
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/basarios02.png
+map_d texture/basarios02.png
+
+newmtl basarios03
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd texture/basarios03.png
+
+newmtl basarios04
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd texture/basarios04.png
