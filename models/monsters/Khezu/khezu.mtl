@@ -1,0 +1,32 @@
+# Blender 4.4.3 MTL File: 'khezu.blend'
+# www.blender.org
+
+newmtl khezu00
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd texture/khezu00.png
+
+newmtl khezu01
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd D:/Git/mhffu/psp/export/tmh/emmodel/em15-0002/khezu01.png
+map_d D:/Git/mhffu/psp/export/tmh/emmodel/em15-0002/khezu01.png
+
+newmtl khezu02
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd texture/khezu02.png
