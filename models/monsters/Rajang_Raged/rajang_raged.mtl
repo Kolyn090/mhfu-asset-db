@@ -1,32 +1,32 @@
 # Blender 4.4.3 MTL File: 'rajang_raged.blend'
 # www.blender.org
 
-newmtl rajang_raged00
+newmtl rajang00
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 illum 1
-map_Kd texture/rajang_raged00.png
-map_d texture/rajang_raged00.png
+map_Kd texture/rajang00.png
+map_d texture/rajang00.png
 
-newmtl rajang_raged01
+newmtl rajang01
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 illum 1
-map_Kd texture/rajang_raged01.png
-map_d texture/rajang_raged01.png
+map_Kd texture/rajang01.png
+map_d texture/rajang01.png
 
-newmtl rajang_raged02
+newmtl rajang02
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 illum 2
-map_Kd texture/rajang_raged02.png
-map_d texture/rajang_raged02.png
+map_Kd texture/rajang02.png
+map_d texture/rajang02.png
