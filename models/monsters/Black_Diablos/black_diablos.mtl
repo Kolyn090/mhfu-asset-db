@@ -1,0 +1,42 @@
+# Blender 4.4.3 MTL File: 'black_diablos.blend'
+# www.blender.org
+
+newmtl black_diablos00
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/black_diablos00.png
+map_d texture/black_diablos00.png
+
+newmtl black_diablos01
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/black_diablos01.png
+map_d texture/black_diablos01.png
+
+newmtl black_diablos02
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd texture/black_diablos02.png
+
+newmtl black_diablos03
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/black_diablos03.png
+map_d texture/black_diablos03.png
