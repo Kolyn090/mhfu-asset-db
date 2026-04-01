@@ -1,0 +1,72 @@
+# Blender 4.4.3 MTL File: 'yama_tsukami.blend'
+# www.blender.org
+
+newmtl yama_tsukami00
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/yama_tsukami00.png
+map_d texture/yama_tsukami00.png
+
+newmtl yama_tsukami01
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/yama_tsukami01.png
+map_d texture/yama_tsukami01.png
+
+newmtl yama_tsukami02
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/yama_tsukami02.png
+map_d texture/yama_tsukami02.png
+
+newmtl yama_tsukami03
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd texture/yama_tsukami03.png
+
+newmtl yama_tsukami04
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd texture/yama_tsukami04.png
+map_d texture/yama_tsukami04.png
+
+newmtl yama_tsukami05
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/yama_tsukami05.png
+map_d texture/yama_tsukami05.png
+
+newmtl yama_tsukami06
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/yama_tsukami06.png
+map_d texture/yama_tsukami06.png
