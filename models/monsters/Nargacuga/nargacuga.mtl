@@ -1,0 +1,22 @@
+# Blender 4.4.3 MTL File: 'nargacuga.blend'
+# www.blender.org
+
+newmtl nargacuga00
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/nargacuga00.png
+map_d texture/nargacuga00.png
+
+newmtl nargacuga01
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/nargacuga01.png
+map_d texture/nargacuga01.png
