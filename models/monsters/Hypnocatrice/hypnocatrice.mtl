@@ -1,0 +1,42 @@
+# Blender 4.4.3 MTL File: 'hypnocatrice.blend'
+# www.blender.org
+
+newmtl hypnocatrice00
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/hypnocatrice00.png
+map_d texture/hypnocatrice00.png
+
+newmtl hypnocatrice01
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/hypnocatrice01.png
+map_d texture/hypnocatrice01.png
+
+newmtl hypnocatrice02
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/hypnocatrice02.png
+map_d texture/hypnocatrice02.png
+
+newmtl hypnocatrice03
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/hypnocatrice03.png
+map_d texture/hypnocatrice03.png
