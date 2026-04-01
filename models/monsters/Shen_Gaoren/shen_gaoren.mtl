@@ -1,0 +1,32 @@
+# Blender 4.4.3 MTL File: 'shen_gaoren.blend'
+# www.blender.org
+
+newmtl shen_gaoren00
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd texture/shen_gaoren00.png
+
+newmtl shen_gaoren01
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd texture/shen_gaoren01.png
+
+newmtl shen_gaoren02
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd texture/shen_gaoren02.png
