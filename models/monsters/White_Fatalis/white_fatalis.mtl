@@ -1,0 +1,92 @@
+# Blender 4.4.3 MTL File: 'white_fatalis.blend'
+# www.blender.org
+
+newmtl white_fatalis00
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/white_fatalis00.png
+map_d texture/white_fatalis00.png
+
+newmtl white_fatalis01
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/white_fatalis01.png
+map_d texture/white_fatalis01.png
+
+newmtl white_fatalis02
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/white_fatalis02.png
+map_d texture/white_fatalis02.png
+
+newmtl white_fatalis03
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd texture/white_fatalis03.png
+
+newmtl white_fatalis04
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/white_fatalis04.png
+map_d texture/white_fatalis04.png
+
+newmtl white_fatalis05
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd texture/white_fatalis05.png
+
+newmtl white_fatalis06
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/white_fatalis06.png
+map_d texture/white_fatalis06.png
+
+newmtl white_fatalis07.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd texture/white_fatalis07.png
+
+newmtl white_fatalis08
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/white_fatalis08.png
+map_d texture/white_fatalis08.png
