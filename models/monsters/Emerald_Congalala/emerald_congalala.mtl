@@ -1,0 +1,32 @@
+# Blender 4.4.3 MTL File: 'emerald_congalala.blend'
+# www.blender.org
+
+newmtl emerald_congalala00
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/emerald_congalala00.png
+map_d texture/emerald_congalala00.png
+
+newmtl emerald_congalala01
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/emerald_congalala01.png
+map_d texture/emerald_congalala01.png
+
+newmtl emerald_congalala02
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 1
+map_Kd texture/emerald_congalala02.png
+map_d texture/emerald_congalala02.png
