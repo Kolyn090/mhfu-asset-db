@@ -1,9 +1,87 @@
 # mhfu-asset-db
 
-mhfu-asset-db is undergoing a BIG change! 
+## Overview
+This project contains various assets extracted from **Monster Hunter Freedom Unite (PSP)** (or at least is going to be).
 
-⚠️ **Important Notice**: mhfu-image-db has been renamed to mhfu-asset-db. I have also changed the folder structure to comply with the following changes.
+The goal of this project is to study and reconstruct game assets by reverse engineering.
 
-Recently I have made some luck with extracting 3D models from the game. Although it requires a tremendous amount of effort to rip a model like above, I am interested in doing this in my free time. (Maybe that will make my DB the only place on the internet to find MHFU models? LOL) **That being said, if you want to upload them to places like [The Spriters Resource](https://www.spriters-resource.com/browse/), please ASK ME. It takes A LOT works to rip the models.** For other use cases like use them in your software, I'm completely OK with it.
+This includes:
+- Mesh extraction
+- UV reconstruction
+- Material/texture mapping from draw calls
+- Parsing PSP GE (Graphics Engine) commands
+- and more
 
-💖 If you love mhfu-asset-db, please consider give it a ⭐! Your support will make me happy. 🤗
+---
+
+## ⚠️ Asset Source Notice
+
+All models, textures, and related resources in this repository were **extracted (ripped)**
+from:
+
+Monster Hunter 2G (PSP)  
+© Capcom
+
+All original assets remain the property of Capcom.  
+I do **not** claim ownership of any original game assets.
+
+---
+
+## 🚫 Usage Guidelines
+
+Please **do not**:
+- Re-upload these assets to asset hosting sites (e.g., The Spriters Resource)
+- Redistribute them as standalone asset packs
+
+If you would like to share this work, please link to this repository instead.
+
+---
+
+## 🧠 Purpose
+
+This project is intended for:
+- Reverse engineering research
+- Learning about PSP graphics pipelines
+- Understanding proprietary model formats
+
+---
+
+## 🛠️ Tools Used
+
+- RenderDoc (frame capture & draw call inspection)
+- PPSSPP + debugger (runtime analysis)
+- ImHex, HxD (hex analysis)
+- Blender (model inspection and cleanup)
+- Custom Python scripts (parsing and reconstruction) [See more](https://github.com/Kolyn090/mhffu.git)
+
+---
+
+## 📜 License
+
+This repository does not provide a license for the included assets.
+
+All assets are property of their original copyright holders (Capcom).
+
+---
+
+## ❗ Disclaimer
+
+This project is not affiliated with or endorsed by Capcom.
+
+All assets are used strictly for educational and research purposes.
+
+---
+
+## 🙏 Acknowledgements
+
+Special thanks to [Seth VanHeulen](https://github.com/svanheulen) and [Hairo](https://github.com/Hairo) for making the following tools publicly available:
+
+- [mhff](https://github.com/svanheulen/mhff)
+- [FUCTool](https://github.com/FUComplete/FUCTool)
+
+Their work significantly helped with reverse engineering and understanding the underlying data structures.
+
+## ⭐ Support
+
+If you enjoyed or found this project helpful, a star is always appreciated!
+
