@@ -1,21 +1,23 @@
-MIT License
+=== Third-Party Asset Notice ===
 
-Copyright (c) 2026 Kolyn090
+This repository contains assets extracted from:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Monster Hunter 2G (PSP)
+© Capcom
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+All original assets are the property of Capcom.
+No ownership is claimed over these assets.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+=== Usage Request ===
+
+Please do not re-upload these extracted assets to
+asset hosting websites (e.g., The Spriters Resource)
+or redistribute them as standalone assets.
+
+If you wish to share them, please link to this repository instead
+
+=== Purpose ===
+
+This project exists for reverse engineering, research,
+and educational purposes, including understanding
+PSP rendering pipelines and proprietary model formats.
