@@ -1,0 +1,147 @@
+newmtl f_plate033-0000-0_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-1_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-10_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-11_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-12_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-13_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-14_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-15_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-16_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-17_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-18_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-19_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-2_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-20_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-3_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-4_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-5_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-6_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-7_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-8_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
+newmtl f_plate033-0000-9_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_plate033-00.png
+map_Kd texture/f_plate033-00.png
