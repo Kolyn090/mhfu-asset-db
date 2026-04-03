@@ -1,0 +1,14 @@
+newmtl m_waist278-0000-0_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka m_waist278-00.png
+map_Kd texture/m_waist278-00.png
+newmtl m_waist278-0000-1_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka m_waist278-00.png
+map_Kd texture/m_waist278-00.png
