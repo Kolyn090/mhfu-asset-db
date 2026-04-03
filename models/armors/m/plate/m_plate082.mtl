@@ -1,0 +1,21 @@
+newmtl m_plate082-0000-0_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka m_plate082-00.png
+map_Kd texture/m_plate082-00.png
+newmtl m_plate082-0000-1_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka m_plate082-00.png
+map_Kd texture/m_plate082-00.png
+newmtl m_plate082-0000-2_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka m_plate082-00.png
+map_Kd texture/m_plate082-00.png
