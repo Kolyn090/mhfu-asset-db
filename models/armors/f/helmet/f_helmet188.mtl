@@ -1,0 +1,14 @@
+newmtl f_helmet188-0000-0_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_helmet188-00.png
+map_Kd texture/f_helmet188-00.png
+newmtl f_helmet188-0000-1_texture00
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+illum 1
+map_Ka f_helmet188-00.png
+map_Kd texture/f_helmet188-00.png
