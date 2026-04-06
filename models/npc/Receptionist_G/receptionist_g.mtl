@@ -1,0 +1,27 @@
+newmtl npc00_02
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd texture/npc00_02.png
+map_d texture/npc00_02.png
+newmtl npc00_04
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd texture/npc00_04.png
+map_d texture/npc00_04.png
+newmtl npc00_04_2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd D:/Git/Random-Stuff/src/Convert_color/npc00_04_2.png
+map_d D:/Git/Random-Stuff/src/Convert_color/npc00_04_2.png
