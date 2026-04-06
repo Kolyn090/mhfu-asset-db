@@ -5,9 +5,8 @@ Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 illum 2
-map_Kd texture/npc01_01.png
-map_d texture/npc01_01.png
-
+map_Kd D:/Git/mhffu/psp/export/model/npc/npc_01/0002/texture/npc01_01.png
+map_d D:/Git/mhffu/psp/export/model/npc/npc_01/0002/texture/npc01_01.png
 newmtl npc01_03
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -15,9 +14,8 @@ Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 illum 2
-map_Kd texture/npc01_03.png
-map_d texture/npc01_03.png
-
+map_Kd D:/Git/mhffu/psp/export/model/npc/npc_01/0002/texture/npc01_03.png
+map_d D:/Git/mhffu/psp/export/model/npc/npc_01/0002/texture/npc01_03.png
 newmtl npc01_06
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -25,5 +23,14 @@ Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 illum 2
-map_Kd texture/npc01_06.png
-map_d texture/npc01_06.png
+map_Kd D:/Git/mhffu/psp/export/model/npc/npc_01/0002/texture/npc01_06.png
+map_d D:/Git/mhffu/psp/export/model/npc/npc_01/0002/texture/npc01_06.png
+newmtl npc_01_01_2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd D:/Git/Random-Stuff/src/MH/Convert_color/npc01_01_2.png
+map_d D:/Git/Random-Stuff/src/MH/Convert_color/npc01_01_2.png
