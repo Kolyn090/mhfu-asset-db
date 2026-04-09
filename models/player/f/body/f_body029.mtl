@@ -6,7 +6,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 1
-map_Kd D:/Git/mhffu/psp/export/model/edit/editpl_f/0002/texture/f_body007.png
+map_Kd texture/f_body007.png
 newmtl texture130
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -15,7 +15,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 1
-map_Kd D:/Git/mhffu/psp/export/model/edit/editpl_f/0002/texture/f_body0130.png
+map_Kd texture/f_body130.png
 newmtl texture39
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -24,4 +24,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 1
-map_Kd D:/Git/mhffu/psp/export/model/edit/editpl_f/0002/texture/f_body039.png
+map_Kd texture/f_body039.png

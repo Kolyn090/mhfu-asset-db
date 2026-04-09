@@ -5,17 +5,17 @@ Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 illum 2
-map_Kd D:/Git/mhffu/psp/export/model/edit/editpl_f/0002/texture/f_body008.png
-map_d D:/Git/mhffu/psp/export/model/edit/editpl_f/0002/texture/f_body008.png
-newmtl f_body0131.png
+map_Kd texture/f_body008.png
+map_d texture/f_body008.png
+newmtl f_body131.png
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 illum 2
-map_Kd D:/Git/mhffu/psp/export/model/edit/editpl_f/0002/texture/f_body0131.png
-map_d D:/Git/mhffu/psp/export/model/edit/editpl_f/0002/texture/f_body0131.png
+map_Kd texture/f_body131.png
+map_d texture/f_body131.png
 newmtl f_body040.png
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
@@ -23,5 +23,5 @@ Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 illum 2
-map_Kd D:/Git/mhffu/psp/export/model/edit/editpl_f/0002/texture/f_body040.png
-map_d D:/Git/mhffu/psp/export/model/edit/editpl_f/0002/texture/f_body040.png
+map_Kd texture/f_body040.png
+map_d texture/f_body040.png
