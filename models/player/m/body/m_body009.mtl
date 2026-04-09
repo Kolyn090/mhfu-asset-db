@@ -1,27 +1,29 @@
-newmtl m_body0140
+newmtl m_body09
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 illum 2
-map_Kd texture/m_body140.png
-map_d texture/m_body140.png
-newmtl m_body017
+map_Kd texture/m_body009.png
+map_d texture/m_body009.png
+
+newmtl m_body132
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 illum 2
-map_Kd texture/m_body017.png
-map_d texture/m_body017.png
-newmtl m_body049
+map_Kd texture/m_body132.png
+map_d texture/m_body132.png
+
+newmtl m_body41
 Ns 0.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
 Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 illum 2
-map_Kd texture/m_body049.png
-map_d texture/m_body049.png
+map_Kd texture/m_body041.png
+map_d texture/m_body041.png
