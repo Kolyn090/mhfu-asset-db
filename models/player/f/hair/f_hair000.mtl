@@ -1,14 +1,9 @@
-newmtl f_hair000-0000-0_texture00
-Ka 1.0 1.0 1.0
-Kd 1.0 1.0 1.0
-Ks 0.0 0.0 0.0
-illum 1
-map_Ka f_hair000-00.png
-map_Kd texture/f_hair000-00.png
-newmtl f_hair000-0000-1_texture00
-Ka 1.0 1.0 1.0
-Kd 1.0 1.0 1.0
-Ks 0.0 0.0 0.0
-illum 1
-map_Ka f_hair000-00.png
-map_Kd texture/f_hair000-00.png
+newmtl f_hair096
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd D:/Git/mhffu/psp/export/model/edit/editpl_f/0002/texture/f_hair096.png
+map_d D:/Git/mhffu/psp/export/model/edit/editpl_f/0002/texture/f_hair096.png
