@@ -1,6 +1,4 @@
 mtllib m_legging180.mtl
-
-# --- m_legging180-0000-0 ---
 g mesh00
 usemtl m_legging180-0000-0_texture00
 v 0.000000 -16.345714 12.939668

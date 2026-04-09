@@ -1,6 +1,4 @@
 mtllib f_plate251.mtl
-
-# --- f_plate251-0000-0 ---
 g mesh00
 usemtl f_plate251-0000-0_texture00
 v -8.865337 39.906247 -3.930571

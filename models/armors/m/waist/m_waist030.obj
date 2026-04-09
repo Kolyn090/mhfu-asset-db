@@ -1,6 +1,4 @@
 mtllib m_waist030.mtl
-
-# --- m_waist030-0000-0 ---
 g mesh00
 usemtl m_waist030-0000-0_texture00
 v 2.920514 -47.675685 -29.832256

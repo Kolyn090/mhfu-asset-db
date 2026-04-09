@@ -1,6 +1,4 @@
 mtllib f_waist001.mtl
-
-# --- f_waist001-0000-0 ---
 g mesh00
 usemtl f_waist001-0000-0_texture00
 v -20.025669 2.699530 2.248804

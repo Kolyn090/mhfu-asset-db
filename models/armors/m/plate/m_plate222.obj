@@ -1,6 +1,4 @@
 mtllib m_plate222.mtl
-
-# --- m_plate222-0000-0 ---
 g mesh00
 usemtl m_plate222-0000-0_texture00
 v -7.044552 38.231958 -12.588209

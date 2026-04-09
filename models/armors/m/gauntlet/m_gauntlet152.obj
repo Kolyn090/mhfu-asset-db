@@ -1,6 +1,4 @@
 mtllib m_gauntlet152.mtl
-
-# --- m_gauntlet152-0000-0 ---
 g mesh00
 usemtl m_gauntlet152-0000-0_texture00
 v -64.079733 32.986683 -5.368059
